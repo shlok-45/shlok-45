@@ -25,7 +25,7 @@
 #### 🍕 Pizza Sales Dashboard
 *Sales performance and customer trend analysis.*
 <p align="center">
-  <img src="pizza_sales_dashbord 2nd Projec...png" width="80%">
+  <img src="pizza_sales_dashbord.png" width="80%">
 </p>
 
 ---
