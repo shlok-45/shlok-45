@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Shlok Anand! 👋
+### 📊 Data Analytics & Visualization Portfolio
 
-<!--
-**shlok-45/shlok-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🏏 IPL Data Analysis (2020-2025)
+*Interactive Power BI Dashboard for IPL Auction & Player Performance.*
+<p align="center">
+  <img src="IPL State Project-1.png" width="32%"> 
+  <img src="IPL State Project-2.png" width="32%"> 
+  <img src="IPL State Project-3.png" width="32%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 📉 Tech Layoffs Data Analysis
+*End-to-End Data Analysis of Tech Layoffs using Python, Pandas, and Seaborn.*
+<p align="center">
+  <img src="Layoffs_Report_Python-1.png" width="48%">
+  <img src="Layoffs_Report_Python-2.png" width="48%">
+</p>
+
+---
+
+#### 🍕 Pizza Sales Dashboard
+*Sales performance and customer trend analysis.*
+<p align="center">
+  <img src="pizza_sales_dashbord 2nd Projec...png" width="80%">
+</p>
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python (Pandas, Seaborn, NumPy), SQL (MySQL)
+- **Visualization:** Power BI, Tableau, Excel
+- **Other Skills:** Machine Learning, Data Cleaning, SQL Optimization
