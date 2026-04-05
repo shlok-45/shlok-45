@@ -26,6 +26,7 @@
 *Sales performance and customer trend analysis.*
 <p align="center">
   <img src="pizza_sales_dashbord.png" width="80%">
+  <img src="pizza_sales_dashbord-1.png" width="80%">
 </p>
 
 ---
