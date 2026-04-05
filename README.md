@@ -18,6 +18,11 @@
 <p align="center">
   <img src="Layoffs_Report_Python-1.png" width="48%">
   <img src="Layoffs_Report_Python-2.png" width="48%">
+  <img src="Layoffs_Report_Python-3.png" width="48%">
+  <img src="Layoffs_Report_Python-4.png" width="48%">
+  <img src="Layoffs_Report_Python-5.png" width="48%">
+  <img src="Layoffs_Report_Python-6.png" width="48%">
+  <img src="Layoffs_Report_Python-7.png" width="48%">
 </p>
 
 ---
