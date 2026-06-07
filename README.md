@@ -36,6 +36,17 @@
 
 ---
 
+---
+
+### 📦 Amazon Sales Performance Dashboard
+**Interactive Power BI Dashboard for E-commerce Sales & Logistics.**
+
+<img src="https://github.com/shlok-45/Amazon-Sales-Dashboard/blob/main/Screenshot%202026-06-07%20020434.png" width="100%">
+
+* Analyzed over 20K rows of e-commerce data to structure a comprehensive performance dashboard mapping **₹11.58M** in total revenue.
+* Streamlined operational visibility by tracking courier delivery statuses (85.6% shipped) and comparing fulfillment channels (Amazon vs. Merchant).
+* [🔗 View Repository](https://github.com/shlok-45/Amazon-Sales-Dashboard)
+
 ### 🛠️ Tech Stack
 - **Languages:** Python (Pandas, Seaborn, NumPy), SQL (MySQL)
 - **Visualization:** Power BI, Tableau, Excel
